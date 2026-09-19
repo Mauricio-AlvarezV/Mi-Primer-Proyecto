@@ -4,7 +4,7 @@ Mauricio Alvarez Vazquez
 
 ## Sobre mí
 - Carrera: Licenciatura en Ingenieria en Software
-- Semestre:
+- Semestre: Tercer semestre
 - Una cosa que espero aprender hoy:
 
 
