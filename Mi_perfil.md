@@ -5,7 +5,7 @@ Mauricio Alvarez Vazquez
 ## Sobre mí
 - Carrera: Licenciatura en Ingenieria en Software
 - Semestre: Tercer semestre
-- Una cosa que espero aprender hoy:
+- Una cosa que espero aprender hoy: Aprender a usar git y Vs Code
 
 
 ## Mi frase favorita
