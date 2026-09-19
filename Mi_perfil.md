@@ -10,6 +10,7 @@ Mauricio Alvarez Vazquez
 
 ## Mi frase favorita
 > Escribe aquí una frase que te guste.
+El esfuerzo de cada día es el éxito del mañana.
 
 ## Herramientas del curso
 
