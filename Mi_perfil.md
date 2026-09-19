@@ -1,7 +1,9 @@
 # Mi nombre aquí
 
+Mauricio Alvarez Vazquez
+
 ## Sobre mí
-- Carrera:
+- Carrera: Licenciatura en Ingenieria en Software
 - Semestre:
 - Una cosa que espero aprender hoy:
 
